@@ -8,8 +8,6 @@ Hello everyone!
   Male， 24 years old, gone, thank you!
 </br>
 </br>
-</br>
-</br>
 大家好! 
   我叫阿龙，我来这边写个自我介绍!
   男，23岁，没了，谢谢！
